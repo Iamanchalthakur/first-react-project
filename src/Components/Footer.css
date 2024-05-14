@@ -1,0 +1,46 @@
+.main {
+    justify-content: space-evenly;
+    background-color: rgb(137, 181, 167);
+    
+   
+    
+
+}
+.container{
+    display: flex;
+    padding: 0 120px;
+    
+
+}
+
+.sections {
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+
+}
+
+li {
+    list-style-type: none;
+    
+ 
+}
+
+.footer-el {
+    text-decoration: none;
+    color: black;
+}
+@media only screen and (max-width: 600px) {
+   
+    .container{
+        display: block;
+        padding: 40px;
+    }
+    
+.sections {
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+
+}
+  }
