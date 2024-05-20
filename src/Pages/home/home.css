@@ -1,0 +1,31 @@
+.hero-sec{
+    height: 600px;
+    width: 100%;
+}
+
+.welcome-sec{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.part-1, .part-2{
+    
+  
+    width: 50%;
+    justify-content: center;
+    
+}
+
+.welcome-img{
+    height: 250px;
+    width: 400px;
+    
+}
+
+.part-2{
+    
+    justify-content: center;
+    
+}

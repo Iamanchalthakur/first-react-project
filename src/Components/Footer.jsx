@@ -13,9 +13,11 @@ function Footer() {
               SAS Infonet Building, C-133, Mohali Bypass, Phase-8, Industrial
               Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160071
             </p>
+            
             <h3>SIGN UP FOR THE NEWSLETTER</h3>
+            <div className="sign-up">
             <input type="text" placeholder="E-mail" />
-            <button>Sign-Up</button>
+            <button className="signup-btn" >Sign-Up</button></div>
           </div>
 
           <div className="sections">
@@ -45,6 +47,7 @@ function Footer() {
           </div>
         </div>
       </div>
+      <div className="footer-end">Copyright © 2022 Codebeelab. All Rights Reserved</div>
     </footer>
   );
 }

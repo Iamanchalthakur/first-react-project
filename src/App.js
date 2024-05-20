@@ -6,6 +6,7 @@ import Aboutus from './Pages/aboutus/aboutus';
 import Services from './Pages/services/services';
 import Contact from './Pages/contact/contact';
 import Layout from './Pages/layout/layout';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
